@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libcnary.a CMakeFiles/libcnary.dir/iterator.c.o CMakeFiles/libcnary.dir/list.c.o CMakeFiles/libcnary.dir/node.c.o CMakeFiles/libcnary.dir/node_iterator.c.o CMakeFiles/libcnary.dir/node_list.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libcnary.a
